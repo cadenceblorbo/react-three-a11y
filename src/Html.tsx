@@ -9,7 +9,7 @@ import {
   PerspectiveCamera,
   OrthographicCamera,
 } from 'three';
-import { type Assign } from 'utility-types';
+import { Assign } from 'utility-types';
 import { ReactThreeFiber, useFrame, useThree } from '@react-three/fiber';
 
 const v1 = new Vector3();
